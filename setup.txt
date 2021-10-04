@@ -1,0 +1,10 @@
+after installing node:
+
+virtualenv env
+npm install -g @vue/cli
+
+cd client -> npm i
+cd server -> npm i
+
+cd client -> npm run serve
+cd server -> npm run start
